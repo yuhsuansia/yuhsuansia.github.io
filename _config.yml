@@ -93,10 +93,10 @@ lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
-  enabled: false
+  enabled: true
 
 related_blog_posts:
-  enabled: false
+  enabled: true
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -338,8 +338,9 @@ external_links:
   enabled: true
   rel: external nofollow noopener
   target: _blank
-  exclude:
-
+  exclude: 
+    - _pages/blog.md
+    - _pages/dropdown.md
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
 # -----------------------------------------------------------------------------
