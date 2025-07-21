@@ -195,7 +195,7 @@ exclude:
   - _pages/blog.md
   - _pages/projects.md
   - _pages/teaching.md
-  - _pages/people.md
+  - _pages/profiles.md
 keep_files:
   - CNAME
   - .nojekyll
@@ -344,8 +344,11 @@ external_links:
   rel: external nofollow noopener
   target: _blank
   exclude: 
-    - _pages/blog.md
     - _pages/dropdown.md
+    - _pages/blog.md
+    - _pages/projects.md
+    - _pages/teaching.md
+    - _pages/profiles.md
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
 # -----------------------------------------------------------------------------
