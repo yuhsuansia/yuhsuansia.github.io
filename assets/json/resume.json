@@ -54,7 +54,7 @@
       "studyType": "Ph.D. in Signals and Systems",
       "startDate": "2020-02-01",
       "endDate": "2022-09-01",
-      "courses": ["Main supervisor: Prof. Lennart Svensson; Co-supervisor: Dr. Karl Granström.","Doctoral thesis: Poisson multi-Bernoulli mixtures for multiple object tracking."]
+      "courses": ["Main supervisor: Prof. Lennart Svensson","Co-supervisor: Dr. Karl Granström.","Doctoral thesis: Poisson multi-Bernoulli mixtures for multiple object tracking."]
     },
     {
       "institution": "Chalmers University of Technology",
@@ -81,13 +81,12 @@
     }
 
   ],
-  "awards": [
+  "Teaching Experience": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Information Fusion",
+      "date": "2025",
+      "awarder": "Graduate course at Shanghai Jiao Tong University",
+      "summary": "Role: Lecturer, examiner, course material development."
     }
   ],
   "certificates": [
