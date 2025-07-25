@@ -87,7 +87,27 @@
       "date": "2025",
       "awarder": "Graduate course at Shanghai Jiao Tong University",
       "summary": "Role: Lecturer, examiner, course material development."
+    },
+    {
+      "title": "Multi-Object Tracking for Automotive Systems",
+      "date": "2018-2023",
+      "awarder": "Graduate course on edX",
+      "summary": "Role: Coordinator, course material development, including all the exercises and assignments."
+    },
+    {
+      "title": "Sensor Fusion and Nonlinear Filtering",
+      "date": "2018-2021",
+      "awarder": "Graduate course at Chalmers",
+      "summary": "Role: Teaching Assistant, course material development."
+    },
+    {
+      "title": "Deep Machine Learning",
+      "date": "2020",
+      "awarder": "Graduate course at Chalmers",
+      "summary": "Role: Teaching Assistant."
     }
+
+
   ],
   "certificates": [
     {
