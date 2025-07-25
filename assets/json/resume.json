@@ -193,13 +193,13 @@
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "Chinese",
+      "fluency": "mother tongue",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Fluent in speech and writing",
       "icon": ""
     }
   ],
@@ -219,7 +219,7 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Lennart Svensson",
       "icon": "fa-solid fa-laptop",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
