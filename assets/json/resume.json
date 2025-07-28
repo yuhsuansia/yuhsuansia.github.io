@@ -88,28 +88,24 @@
       "awarder": "A prestigious initiative by the Shanghai municipal government to support outstanding young professionals and scholars contributing to the city‘s innovation and development."
     },
     {
-      "title": "Wallenberg AI Autonomous System and Software Program, PI, 2.2 MSEK (Industrial postdoctoral fellowship)",
-      "date": "2023"
+      "title": "Industrial postdoctoral fellowship",
+      "date": "2023",
+      "awarder": "Wallenberg AI Autonomous System and Software Program, PI, 2.2 MSEK."
     },
     {
-      "title": "International Conference on Multisensor Fusion and Integration for Intelligent Systems",
-      "date": "2024"
+      "title": "Paper awards",
+      "date": "2024-2020",
+      "awarder": ["International Conference on Multisensor Fusion and Integration for Intelligent Systems, 2024","International Conference on Information Fusion, 2021", "Sensor Array and Multichannel Signal Processing Workshop, 2020"]
     },
     {
-      "title": "International Conference on Information Fusion",
-      "date": " 2021"
+      "title": "Adlerbert 60th anniversary scholarships",
+      "date": "2016",
+      "awarder": "Chalmers University of Technology, 60000 SEK."
     },
     {
-      "title": "Sensor Array and Multichannel Signal Processing Workshop",
-      "date": "2020"
-    },
-    {
-      "title": "Adlerbert 60th anniversary scholarships, Chalmers University of Technology, 60000 SEK",
-      "date": "2016"
-    },
-    {
-      "title": "Avancez scholarships (Chalmers University of Technology, 85% tuition fee reduction)",
-      "date": "2015"
+      "title": "Avancez scholarships",
+      "date": "2015",
+      "awarder": "Chalmers University of Technology, 85% tuition fee reduction."
     }
 
   ],
