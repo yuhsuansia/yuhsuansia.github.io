@@ -81,14 +81,37 @@
     }
 
   ],
-  "awards": [
+  "Grants and Awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Shanghai Magnolia Talent Program (Youth)",
+      "date": "2025",
+      "awarder": "A prestigious initiative by the Shanghai municipal government to support outstanding young professionals and scholars contributing to the city‘s innovation and development."
+    },
+    {
+      "title": "Wallenberg AI Autonomous System and Software Program, PI, 2.2 MSEK (Industrial postdoctoral fellowship)",
+      "date": "2023"
+    },
+    {
+      "title": "International Conference on Multisensor Fusion and Integration for Intelligent Systems",
+      "date": "2024"
+    },
+    {
+      "title": "International Conference on Information Fusion",
+      "date": " 2021"
+    },
+    {
+      "title": "Sensor Array and Multichannel Signal Processing Workshop",
+      "date": "2020"
+    },
+    {
+      "title": "Adlerbert 60th anniversary scholarships, Chalmers University of Technology, 60000 SEK",
+      "date": "2016"
+    },
+    {
+      "title": "Avancez scholarships (Chalmers University of Technology, 85% tuition fee reduction)",
+      "date": "2015"
     }
+
   ],
   "Teaching": [
     {
