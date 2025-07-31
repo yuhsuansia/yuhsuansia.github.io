@@ -5,6 +5,9 @@
 "Journal":
   color: "#009f36"
 
-"Arxiv"
+"Arxiv":
+  color: "#78ed51"
 
-"Patent"
+
+"Patent":
+  color: "#f5f245"
