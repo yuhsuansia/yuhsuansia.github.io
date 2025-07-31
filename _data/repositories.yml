@@ -5,12 +5,12 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - Probabilistic-GOSPA
-  - Batch-TPMBM-using-MCMC-sampling
-  - Extented-target-PMBM-filter-independent-clutter-sources 
-  - Multi-scan-trajectory-PMBM-filter 
-  - Trajectory-PMB-EOT-BP 
-  - Extended-target-PMBM-tracker 
-  - TrackerComponentLibrary 
-  - Extended-target-PMBM-and-PMB-filters
-  - Coexisting-point-extended-target-PMBM-filter
+  - yuhsuansia/Probabilistic-GOSPA
+  - yuhsuansia/Batch-TPMBM-using-MCMC-sampling
+  - yuhsuansia/Extented-target-PMBM-filter-independent-clutter-sources 
+  - yuhsuansia/Multi-scan-trajectory-PMBM-filter 
+  - yuhsuansia/Trajectory-PMB-EOT-BP 
+  - yuhsuansia/Extended-target-PMBM-tracker 
+  - yuhsuansia/TrackerComponentLibrary 
+  - yuhsuansia/Extended-target-PMBM-and-PMB-filters
+  - yuhsuansia/Coexisting-point-extended-target-PMBM-filter
