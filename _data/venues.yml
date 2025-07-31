@@ -1,11 +1,11 @@
 "Conference":
-  color: "#00369f"
+  color: "#7697d6"
 
-
-"Journal":
-  color: "#009f36"
 
 "Arxiv":
+  color: "#009f36"
+
+"Journal":
   color: "#78ed51"
 
 
