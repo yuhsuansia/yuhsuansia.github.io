@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: **Shanghai Jiao Tong University, Research Assistant Professor.**
+subtitle: <a href='https://automation.sjtu.edu.cn/Xia-Yuxuan'>Shanghai Jiao Tong University</a>. Research Assistant Professor.
 
 profile:
   align: right
