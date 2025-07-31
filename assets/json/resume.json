@@ -135,6 +135,23 @@
       "summary": "Role: Teaching Assistant."
     }
   ],
+  "patents":[
+    {
+      "name": "System and method for tracking expanded state of an object.",
+      "icon": "fa-solid fa-tag",
+      "keywords": "US Patent 11,619,494."
+    },
+    {
+      "name": "System and method for tracking expanded state of moving object with model geometry learning.",
+      "icon": "fa-solid fa-tag",
+      "keywords": "US Patent 11,879,964."
+    },
+    {
+      "name": "Model-based road estimation.",
+      "icon": "fa-solid fa-tag",
+      "keywords": "US Patent App. 18/739,846."
+    }
+  ],
   "skills": [
     {
       "name": "Coding",
@@ -170,28 +187,6 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Lennart Svensson",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "patents": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
