@@ -85,27 +85,27 @@
     {
       "title": "Shanghai Magnolia Talent Program (Youth)",
       "date": "2025",
-      "summary": "A prestigious initiative by the Shanghai municipal government to support outstanding young professionals and scholars contributing to the city‘s innovation and development."
+      "courses": "A prestigious initiative by the Shanghai municipal government to support outstanding young professionals and scholars contributing to the city‘s innovation and development."
     },
     {
       "title": "Industrial postdoctoral fellowship",
       "date": "2023",
-      "summary": "Wallenberg AI Autonomous System and Software Program, PI, 2.2 MSEK."
+      "courses": "Wallenberg AI Autonomous System and Software Program, PI, 2.2 MSEK."
     },
     {
       "title": "Paper awards",
       "date": "2024-2020",
-      "summary": ["International Conference on Multisensor Fusion and Integration for Intelligent Systems, 2024","International Conference on Information Fusion, 2021", "Sensor Array and Multichannel Signal Processing Workshop, 2020"]
+      "courses": ["International Conference on Multisensor Fusion and Integration for Intelligent Systems, 2024","International Conference on Information Fusion, 2021", "Sensor Array and Multichannel Signal Processing Workshop, 2020"]
     },
     {
       "title": "Adlerbert 60th anniversary scholarships",
       "date": "2016",
-      "summary": "Chalmers University of Technology, 60000 SEK."
+      "courses": "Chalmers University of Technology, 60000 SEK."
     },
     {
       "title": "Avancez scholarships",
       "date": "2015",
-      "summary": "Chalmers University of Technology, 85% tuition fee reduction."
+      "courses": "Chalmers University of Technology, 85% tuition fee reduction."
     }
 
   ],
