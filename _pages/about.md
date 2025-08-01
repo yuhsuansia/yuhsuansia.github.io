@@ -6,7 +6,7 @@ subtitle: <a href='https://automation.sjtu.edu.cn/Xia-Yuxuan'>Shanghai Jiao Tong
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: xiaomi.JPG
   image_circular: false # crops the image to make it circular
   more_info:
 
