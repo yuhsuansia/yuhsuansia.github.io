@@ -476,13 +476,6 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/yuxuan-xia-b2186b104", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
