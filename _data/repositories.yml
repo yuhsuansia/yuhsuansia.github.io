@@ -1,8 +1,8 @@
-github_users:
-  - yuhsuansia
+# github_users:
+#   - yuhsuansia
 
 
-repo_description_lines_max: 2
+# repo_description_lines_max: 2
 
 github_repos:
   - yuhsuansia/Probabilistic-GOSPA
@@ -11,6 +11,4 @@ github_repos:
   - yuhsuansia/Multi-scan-trajectory-PMBM-filter 
   - yuhsuansia/Trajectory-PMB-EOT-BP 
   - yuhsuansia/Extended-target-PMBM-tracker 
-  - yuhsuansia/TrackerComponentLibrary 
   - yuhsuansia/Extended-target-PMBM-and-PMB-filters
-  - yuhsuansia/Coexisting-point-extended-target-PMBM-filter
