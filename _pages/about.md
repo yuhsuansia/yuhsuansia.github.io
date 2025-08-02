@@ -24,6 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Research Assistant Professor in the Department of Automation and Intelligent Sensing at Shanghai Jiao Tong University. My research interests lie broadly in Bayesian inference and machine learning, with a particular focus on sensor fusion and object tracking. My current work centers on multi-object tracking, multi-sensor fusion, and simultaneous localization and mapping (SLAM) using lidar and radar for autonomous systems.
+I am currently a Research Assistant Professor at the Smart Sensor Fusion Lab, Department of Automation and Intelligent Sensing, Shanghai Jiao Tong University. My research interests lie broadly in Bayesian inference and machine learning, with a particular focus on sensor fusion and object tracking. My current work centers on multi-object tracking, multi-sensor fusion, and simultaneous localization and mapping (SLAM) using lidar and radar for autonomous systems.
 
-I received my MSc in Communication Engineering and PhD in Signal Processing from Chalmers University of Technology, Gothenburg, Sweden, in 2017 and 2022, respectively. Following my PhD, I remained with the Signal Processing Group at Chalmers as a postdoctoral researcher for one year. I subsequently joined Zenseact (Autonomous driving software company owned by Volvo Cars) and was also affliated with the Division of Automatic Control at Linköping University as an Industrial Postdoctoral Researcher. I have organized tutorials on multi-object tracking at the FUSION conferences (2020–2025) and at the MFI conference (2024–2025), and received paper awards at FUSION 2021 and MFI 2024.
+I received my MSc in Communication Engineering and PhD in Signal Processing from Chalmers University of Technology, Gothenburg, Sweden, in 2017 and 2022, respectively. Following my PhD, I remained with the Signal Processing Group at Chalmers as a postdoctoral researcher for one year. I subsequently joined Zenseact (Autonomous driving software company owned by Volvo Cars) and was also affiliated with the Division of Automatic Control at Linköping University as an Industrial Postdoctoral Researcher for another year. 
+
+I have organized tutorials on multi-object tracking at the FUSION conferences (2020–2025) and at the MFI conference (2024–2025), and received paper awards at FUSION 2021 and MFI 2024.
+
+Please refer to <a href='https://scholar.google.com/citations?user=ONkHTSwAAAAJ&hl=en'>my Google Scholar profile</a> to see my full publication list.
