@@ -31,3 +31,5 @@ I received my MSc in Communication Engineering and PhD in Signal Processing from
 I have organized tutorials on multi-object tracking at the FUSION conferences (2020–2025) and at the MFI conference (2024–2025), and received paper awards at FUSION 2021 and MFI 2024.
 
 Please refer to <a href='https://scholar.google.com/citations?user=ONkHTSwAAAAJ&hl=en'>my Google Scholar profile</a> to see my full publication list.
+
+Are you passionate about cutting-edge research in environmental perception for autonomous systems (with special emphasis on advanced, high-resolution automotive radar technologies)? I’m looking for a motivated master’s student to join our <a href='https://fusion.sjtu.edu.cn/main/index.html'>Smart Sensor Fusion Lab</a>!
