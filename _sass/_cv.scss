@@ -47,6 +47,11 @@ p.location {
   white-space: nowrap;
 }
 
+.cv .date-column p.location {
+  max-width: 120px;
+  white-space: normal;
+}
+
 i.iconlocation {
   color: var(--global-theme-color);
   font-size: 0.8rem;

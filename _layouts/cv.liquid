@@ -16,6 +16,7 @@ layout: default
             target="_blank"
             rel="noopener noreferrer"
             class="float-right"
+            aria-label="Download CV (PDF)"
           >
             <i class="fa-solid fa-file-pdf"></i>
           </a>
@@ -67,6 +68,7 @@ layout: default
             target="_blank"
             rel="noopener noreferrer"
             class="float-right"
+            aria-label="Download CV (PDF)"
           >
             <i class="fa-solid fa-file-pdf"></i>
           </a>
@@ -109,6 +111,10 @@ layout: default
                   {% include resume/skills.liquid %}
                 {% when 'publications' %}
                   {% include resume/publications.liquid %}
+                {% when 'Journal Publications', 'Conference Publications' %}
+                  {% include resume/publication_list.liquid %}
+                {% when 'Research Interests', 'Supervised Students', 'Supervised Theses', 'Presentation Experience', 'Professional Service' %}
+                  {% include resume/sections.liquid %}
                 {% when 'languages' %}
                   {% include resume/languages.liquid %}
                 {% when 'interests' %}

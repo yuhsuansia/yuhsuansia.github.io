@@ -1,0 +1,9 @@
+<ol class="card-text font-weight-light pl-4 mb-0">
+  {% for content in data[1] %}
+    <li class="mb-3">
+      <div>{{ content.authors | escape }}</div>
+      <div class="font-weight-bold">{{ content.name | escape }}</div>
+      <div class="font-italic">{{ content.publisher | escape }}</div>
+    </li>
+  {% endfor %}
+</ol>

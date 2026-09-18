@@ -639,12 +639,19 @@ jekyll_get_json:
 
 jsonresume:
   - basics
+  - Research Interests
   - work
   - education
   - publications
   - projects
   - Grants and Awards
   - Teaching
+  - Supervised Students
+  - Supervised Theses
+  - Presentation Experience
+  - Professional Service
+  - Journal Publications
+  - Conference Publications
   - certificates
   - patents
   - skills
