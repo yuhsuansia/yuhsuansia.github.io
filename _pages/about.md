@@ -28,8 +28,6 @@ I am currently a Research Assistant Professor at the Smart Sensor Fusion Lab, De
 
 I received my MSc in Communication Engineering and PhD in Signal Processing from Chalmers University of Technology, Gothenburg, Sweden, in 2017 and 2022, respectively. Following my PhD, I remained with the Signal Processing Group at Chalmers as a postdoctoral researcher for one year. I subsequently joined Zenseact (Autonomous driving software company owned by Volvo Cars) and was also affiliated with the Division of Automatic Control at Linköping University as an Industrial Postdoctoral Researcher for another year. 
 
-I have organized tutorials on multi-object tracking at the FUSION conferences (2020–2025) and at the MFI conference (2024–2025), and received paper awards at FUSION 2021 and MFI 2024.
+I have organized tutorials on multi-object tracking at the FUSION conferences (2020–2026) and at the MFI conference (2024–2026), and received paper awards at FUSION 2021, MFI 2024 and MFI 2026.
 
 Please refer to <a href='https://scholar.google.com/citations?user=ONkHTSwAAAAJ&hl=en'>my Google Scholar profile</a> to see my full publication list.
-
-Are you passionate about cutting-edge research in environmental perception for autonomous systems (with special emphasis on advanced, high-resolution automotive radar technologies)? I’m looking for a motivated master’s student to join our <a href='https://fusion.sjtu.edu.cn/main/index.html'>Smart Sensor Fusion Lab</a>!
