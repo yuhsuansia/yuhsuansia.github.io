@@ -11,8 +11,8 @@
       "summary": "My research interests lie broadly in Bayesian inference and machine learning, with a particular focus on sensor fusion and object tracking. My current work centers on multi-object tracking, multi-sensor fusion, and simultaneous localization and mapping using lidar and radar for autonomous systems. I am enthusiastic about exploring hybrid approaches to environmental perception that leverage deep learning-based and model-based methods."
     },
     {
-      "title": "Google Scholar statistics (September 2026)",
-      "summary": "Citations: 2000+; h-index: 24; i10-index: 35."
+      "title": "Google Scholar statistics (October 2026)",
+      "summary": "Citations: 2100+; h-index: 24; i10-index: 36."
     }
   ],
   "work": [
@@ -223,19 +223,11 @@
       "summary": "Role: Teaching Assistant."
     }
   ],
-  "Supervised Students": [
-    {
-      "title": "Master students at Shanghai Jiao Tong University",
-      "items": [
-        "Hana Amina Souami, ESTACA, France.",
-        "Haoyi Song, East China University of Science and Technology, China."
-      ]
-    }
-  ],
   "Supervised Theses": [
     {
       "title": "Master theses",
       "items": [
+        "Targetless real-time spatial consistency estimation and optimization for heterogeneous information fusion, Shanghai Jiao Tong University, 2026.",
         "Multi-object tracking based on multi-sensor multi-Bernoulli densities fusion, Volvo Group, 2023.",
         "Model-based tracking of multiple merging and diverging highway lanes, Zenseact, 2023.",
         "Deep decentralised multi-object tracking, Chalmers, 2022.",
@@ -328,9 +320,9 @@
     {
       "title": "Journal reviewer",
       "items": [
-        "IEEE T-SP, T-AES, T-ITS, T-IV, T-VT, T-ASE, T-WC, T-MC, T-IP, T-NNLS, T-NSE, T-PAMI.",
+        "IEEE T-SP, T-AES, T-ITS, T-IV, T-VT, T-ASE, T-WC, T-MC, T-IP, T-NNLS, T-NSE, T-CDS, T-PAMI.",
         "IEEE/CAA J. Automatica Sinica, IEEE OJSP, Sensors Journal, Access, RAL, SPL, SL.",
-        "Elsevier IF, EAAI, KBS, SP, DSP; IET SP, RSN; ISIF JAIF."
+        "Elsevier IF, EAAI, PR, KBS, SP, DSP, IS; IET SP, RSN; ISIF JAIF."
       ]
     }
   ],
@@ -359,15 +351,21 @@
   ],
   "Journal Publications": [
     {
+      "name": "Efficient implementations of extended object PMBM filters with blocked Gibbs sampling.",
+      "authors": "*Yuxuan Xia, Ángel F. García-Fernández, Lennart Svensson.",
+      "publisher": "IEEE Transactions on Aerospace and Electronics Systems, 62, 18260–18277, 2026.",
+      "releaseDate": "2026"
+    },
+    {
       "name": "GOSPA and T-GOSPA quasi-metrics for evaluation of multi-object tracking algorithms.",
       "authors": "Ángel F. García-Fernández, Jinhao Gu, Lennart Svensson, Yuxuan Xia, Jan Krejčí, Oliver Kost, Ondřej Straka.",
-      "publisher": "IEEE Transactions on Aerospace and Electronics Systems, 2026.",
+      "publisher": "IEEE Transactions on Aerospace and Electronics Systems, 62, 9631–9644, 2026.",
       "releaseDate": "2026"
     },
     {
       "name": "Occlusion-aware multi-object tracking via expected probability of detection.",
       "authors": "Jan Krejčí, Oliver Kost, Yuxuan Xia, Lennart Svensson, Ondřej Straka.",
-      "publisher": "IEEE Transactions on Aerospace and Electronics Systems, 2026.",
+      "publisher": "IEEE Transactions on Aerospace and Electronics Systems, 62, 8211–8228, 2026.",
       "releaseDate": "2026"
     },
     {
@@ -523,9 +521,15 @@
   ],
   "Conference Publications": [
     {
+      "name": "VAET: Visibility-aware extent transformer for reliability-aware heterogeneous sensor fusion.",
+      "authors": "Guofei Chen, Xiaojun Chen, Yuxuan Xia, Longlong Lin, Ting Yuan.",
+      "publisher": "Symposium Sensor Data Fusion (SDF): Trends, Solutions and Applications, 2026.",
+      "releaseDate": "2026"
+    },
+    {
       "name": "RCS Estimation and Exploitation for Monostatic OFDM Sensing.",
       "authors": "Gyuwoong Han, Yuxuan Xia, Yu Ge, Hyowon Kim.",
-      "publisher": "IEEE 1st Annual Integrated Sensing and Communication Conference (ISAC), 2026.",
+      "publisher": "IEEE Annual Integrated Sensing and Communication Conference (ISAC), 2026.",
       "releaseDate": "2026"
     },
     {
@@ -578,7 +582,7 @@
     },
     {
       "name": "Low-level data analysis for high-resolution automotive radar perception in real-world scenarios.",
-      "authors": "Ting Yuan, Xiaojun Chen, Yuxuan Xia, Lifeng Zhang, Juergen Dickmann.",
+      "authors": "Ting Yuan, Xiaojun Chen, *Yuxuan Xia, Lifeng Zhang, Juergen Dickmann.",
       "publisher": "IEEE International Radar Conference, 2025.",
       "releaseDate": "2025"
     },
@@ -740,7 +744,7 @@
       "name": "Model-based road estimation.",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "US Patent App. 18/739,846."
+        "US Patent 12,668,247."
       ]
     },
     {
